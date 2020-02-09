@@ -1,0 +1,33 @@
+Scene Test (500, 500)
+    	  Dodecahedron Color(0.90, 0.10, 0.92)
+	    Scale (0.2, 0.2, 0.2);
+	    Translate (0.15, 0.0, 0.0) Step 1 to 36;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 37 to 72;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 73 to 108;
+	    Rotate Angle 5 Axis (0.0, 1.0, 0.0) Step 121 to 138;
+	    Rotate Angle 5 Axis (0.0, 0.0, 1.0) Step 141 to 158;
+	    Rotate Angle 5 Axis (1.0, 1.0, 0.0) Step 160 to 190;
+	    Rotate Angle 5 Axis (1.0, 0.0, 0.0) Step 191 to 208;
+	  End
+    	  Tetrahedron Color(0.0, 0.0, 0.0)
+	    Scale (0.2, 0.2, 0.2);
+	    Translate (-0.15, 0.0, 0.0) Step 1 to 36;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 37 to 72;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 73 to 108;
+	    Rotate Angle 5 Axis (0.0, 1.0, 0.0) Step 121 to 138;
+	    Rotate Angle 5 Axis (0.0, 0.0, 1.0) Step 141 to 158;
+	    Rotate Angle 5 Axis (1.0, 1.0, 0.0) Step 160 to 190;
+	    Rotate Angle 5 Axis (1.0, 0.0, 0.0) Step 191 to 208;
+	  End
+    	  Cube Color(0.0, 0.0, 1.0)
+	    Scale (0.52, 0.52, 0.52);
+	    Translate (0.0, 0.05, 0.0) Step 1 to 36;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 37 to 72;
+	    Rotate Angle 5 Axis (1.0, 0.0, 1.0) Step 73 to 108;
+	    Rotate Angle 5 Axis (0.0, 1.0, 0.0) Step 121 to 138;
+	    Rotate Angle 5 Axis (0.0, 0.0, 1.0) Step 141 to 158;
+	    Rotate Angle 5 Axis (1.0, 1.0, 0.0) Step 160 to 190;
+	    Rotate Angle 5 Axis (1.0, 0.0, 0.0) Step 191 to 208;
+	  End
+	End.
+
